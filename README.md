@@ -7,7 +7,7 @@
   <li>🖥️ Check out my <a href="https://manishmch-portfolio.netlify.app/">Portfolio</a></li>
   <li>🚀 Currently brushing up my skills more in javascript</li>
   <li>💯 2022 Goals - Learn some new frameworks and more about web development</li>
-  <li>💫 Explore my other interests <a href="https://www.instagram.com/maxsoch_yt/">🔗link</a></li>
+  <li>💫 Explore my other <a href="https://www.instagram.com/maxsoch_yt/">interests</a></li>
 </ul>
 <hr>
 <h3 align="left">Tech Skills:</h3>
