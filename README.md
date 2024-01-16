@@ -4,7 +4,7 @@
 <ul>
   <li>🌏 I'm from India</li>
   <li>🖥️ Check out my <a href="https://manishmch-portfolio.netlify.app/">Portfolio</a></li>
-  <li>🚀 Currently brushing up my skills more in javascript</li>
+  <li>🚀 Currently brushing up on my javascript skills</li>
   <li>💯 2024 Goals - Learn some new frameworks and more about web development</li>
   <li>💫 Explore my other <a href="https://www.instagram.com/maxsoch_yt/">interests</a></li>
 </ul>
