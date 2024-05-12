@@ -1,9 +1,9 @@
 # <h3>👋 Hello & Welcome</h3>
 
-<h1>This is Manish Mohan Chavan</h1>
+<h1>This is Manish Chavan</h1>
 <ul>
   <li>🌏 I'm from India</li>
-  <li>🖥️ Check out my <a href="https://manishmch-portfolio.netlify.app/">Portfolio</a></li>
+  <li>🖥️ Check out my <a href="https://manishmch.netlify.app/">Portfolio</a></li>
   <li>💯 Currently brushing up on my javascript skills</li>
   <li>🚀 2024 Goals - Learn some new frameworks and more about web development</li>
   <li>💫 Explore my other <a href="https://www.instagram.com/maxsoch_yt/">interests</a></li>
