@@ -1,12 +1,12 @@
-#### 👋Hello & Welcome
-## This is Manish Chavan
+## 👋Hello & Welcome
+# This is Manish Chavan
 * 🌏 I'm from India
 * 🖥️ Check out my [Portfolio](https://manishchv.vercel.app/)
 * 💯 Currently brushing up on my javascript skills
 * 🚀 2024 Goals - Learn some new frameworks and more about web development
 * 💫 Explore my other [interests](https://www.instagram.com/maxsoch_yt/).
 
-### Skills
+## Skills
 <div align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
