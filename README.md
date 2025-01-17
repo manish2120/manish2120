@@ -3,7 +3,6 @@
 * 🌏 I'm from India
 * 🖥️ Check out my [Portfolio](https://manishchv.vercel.app/)
 * 💯 Currently brushing up on my javascript skills
-* 🚀 2024 Goals - Learn some new frameworks and more about web development
 * 💫 Explore my other [interests](https://www.instagram.com/maxsoch_yt/).
 
 ## Skills
