@@ -2,7 +2,7 @@
 # This is Manish Chavan
 * 🌏 I'm from India
 * 🖥️ Check out my [Portfolio](https://manishchv.vercel.app/)
-* 💯 Currently brushing up on my javascript skills
+* 💯 Currently brushing up on my php skills
 * 💫 Explore my other [interests](https://www.instagram.com/maxsoch_yt/).
 
 ## Skills
@@ -15,4 +15,10 @@
     <img src="https://img.shields.io/badge/-Laravel-F53003?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
     <img src="https://img.shields.io/badge/-XAMPP-fb7a24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
     <img src="https://img.shields.io/badge/-MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
+
+## Reach Me
+<div align="center">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </div>
