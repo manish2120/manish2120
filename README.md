@@ -9,9 +9,9 @@
 <div align="center">
     <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/-CSS-light?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-    <img src="https://img.shields.io/badge/-Bootstrap-712CF9?style=for-the-badge&logo=bootstrap&logoColor=white" alt="CSS" />
-    <img src="https://img.shields.io/badge/-PHP-4F5B93?style=for-the-badge&logo=mysql&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/-Codeigniter-F54927?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-Bootstrap-712CF9?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/-PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/-Codeigniter-F54927?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Codeigniter" />
     <img src="https://img.shields.io/badge/-Laravel-F53003?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
     <img src="https://img.shields.io/badge/-XAMPP-fb7a24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
     <img src="https://img.shields.io/badge/-MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
