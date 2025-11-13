@@ -7,16 +7,16 @@
 
 ## Skills
 <div align="center">
-  <a href="#">
+  <a href="#" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html&logoColor=white" alt="HTML" />
   </a>
-  <a href="#">
+  <a href="#" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-CSS-light?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
   </a>
-  <a href="https://getbootstrap.com/">
+  <a href="https://getbootstrap.com/" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-Bootstrap-712CF9?style=for-the-badge&logo=bootstrap&logoColor=white" alt="CSS" />
   </a>
-  <a href="https://www.php.net/">
+  <a href="https://www.php.net/" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-PHP-4F5B93?style=for-the-badge&logo=mysql&logoColor=white" alt="PHP" />
   </a>
   <a href="https://codeigniter.com/">
