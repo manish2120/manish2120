@@ -19,6 +19,8 @@
 
 ## Reach Me
 <div align="center">
+    <a href="mailto:manishmchv@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email" />
+    </a>
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </div>
