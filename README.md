@@ -1,5 +1,4 @@
-## 👋Hello & Welcome
-# This is Manish Chavan
+# About Me
 * 🌏 I'm from India
 * 🖥️ Check out my [Portfolio](https://manishchv.vercel.app/)
 * 💯 Currently brushing up on my php skills
