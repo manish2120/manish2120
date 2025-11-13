@@ -7,20 +7,18 @@
 
 ## Skills
 <div align="center">
-    <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html&logoColor=white" alt="HTML" />
-    <img src="https://img.shields.io/badge/-CSS-light?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-    <img src="https://img.shields.io/badge/-Bootstrap-712CF9?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/-PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/-Codeigniter-F54927?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Codeigniter" />
-    <img src="https://img.shields.io/badge/-Laravel-F53003?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/-XAMPP-fb7a24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
-    <img src="https://img.shields.io/badge/-MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <a href="#"><img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html&logoColor=white" alt="HTML" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-CSS-light?style=for-the-badge&logo=css&logoColor=white" alt="CSS" /></a>
+    <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-712CF9?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+    <a href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
+    <a href="https://codeigniter.com/"><img src="https://img.shields.io/badge/-Codeigniter-F54927?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Codeigniter" /></a>
+    <a href="https://laravel.com/"><img src="https://img.shields.io/badge/-Laravel-F53003?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></a>
+    <a href="https://www.apachefriends.org/"><img src="https://img.shields.io/badge/-XAMPP-fb7a24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" /></a>
+    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 </div>
 
 ## Reach Me
 <div align="center">
-    <a href="mailto:manishmchv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="mailto:manishmchv@gmail.com"><a href=""><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email" /></a>
+    <a href=""><a href=""><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
